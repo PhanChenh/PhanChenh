@@ -30,6 +30,6 @@ I’m a detail-oriented data analyst with a Master’s in Data Science, passiona
 - Data Preprocessing and Wrangling: Cleaning and preparing data for analysis to ensure accurate and actionable insights.
 - Supply Chain Optimization: Using data to improve operational efficiency and decision-making.
 
-I’m highly adaptable and excited to bring my analytical skills to new challenges, whether in retail, university environments, mining, supply chain or other industries. I’m always eager to learn and grow within any business analysis role.
+🌱 I’m highly adaptable and excited to bring my analytical skills to new challenges, whether in retail, university environments, mining, supply chain or other industries. I’m always eager to learn and grow within any business analysis role.
 
 📫 Let’s Connect – Feel free to reach out if you’re looking for a motivated business analyst with a passion for data-driven decision-making!
