@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I’m Phan Chenh!
 
 <!--
 **PhanChenh/PhanChenh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun Fact: I thrive on solving problems and using data to uncover actionable insights across various business sectors! 📊✨ 
 -->
 
-##👋 Hi there, I’m Phan Chenh!
 
 I’m a detail-oriented data analyst with a Master’s in Data Science, passionate about turning raw data into actionable insights. With a strong foundation in data visualization, statistics, and programming, I excel at uncovering hidden trends that fuel business growth and strategic decisions.
 
