@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I’m a detail-oriented data analyst with a Master’s in Data Science, passionate about turning raw data into actionable insights. With a strong foundation in data visualization, statistics, and programming, I excel at uncovering hidden trends that fuel business growth and strategic decisions.
 
-Throughout my studies, I’ve worked on hands-on projects involving:
+👩‍💻 Throughout my studies, I’ve worked on hands-on projects involving:
 
 - Cohort Analysis: Understanding customer retention and behavior trends over time.
 - RFM Analysis: Identifying key customer segments for targeted marketing strategies.
