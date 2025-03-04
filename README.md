@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-I’m a detail-oriented data analyst with a Master’s in Data Science, passionate about turning raw data into actionable insights. With a strong foundation in data visualization, statistics, and programming, I excel at uncovering hidden trends that fuel business growth and strategic decisions.
+I’m a detail-oriented data analyst with a Master’s in Data Science, passionate about turning raw data into actionable insights. With strong skills in SQL, Python, R, and Power BI, I specialize in analyzing business performance, optimizing processes, and building dynamic dashboards. I have experience working with diverse data environments to solve complex business challenges.
 
 👩‍💻 Throughout my studies, I’ve worked on hands-on projects involving:
 
